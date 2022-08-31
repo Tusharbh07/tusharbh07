@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tusharbh07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tusharbh07" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tushar-bhattarai-44a6a9245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar-bhattarai-44a6a9245" height="30" width="40" /></a>
 <a href="https://fb.com/tushar.bhattarai.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tushar.bhattarai.9" height="30" width="40" /></a>
 <a href="https://instagram.com/tusharbh07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tusharbh07" height="30" width="40" /></a>
 </p>
