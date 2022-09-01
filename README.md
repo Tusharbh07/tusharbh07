@@ -1,4 +1,4 @@
-<h1 align="center">Namaste , I'm Tushar Bhattarai</h1>
+<h1 align="center">Namaste 🙏 , I'm Tushar Bhattarai</h1>
 <h3 align="center">A KIIT University Student</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharbh07&label=Profile%20views&color=0e75b6&style=flat" alt="tusharbh07" /> </p>
 
@@ -11,6 +11,13 @@
 - 📫 How to reach me **tusharbhattarai181@gmail.com**
 
 <br>
+
+<hr>
+
+- ❤️Single
+
+<br>
+<hr>  </hr>
 
 
 
